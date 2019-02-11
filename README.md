@@ -1,1 +1,1 @@
-# CreditsSpam
+# nowspam

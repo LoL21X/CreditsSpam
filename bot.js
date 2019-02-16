@@ -266,193 +266,187 @@ z.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReB
 aa.on('ready', async () => {
 let ReBeL = ["وين طيزك يامودي","جوني","سينس","طيز","نياشي","جوردي"]
 setInterval(() => {
-a.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
+aa.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
 },59000);
 });
 
-a.on('ready', async () => {
+bb.on('ready', async () => {
 let ReBeL = ["وين طيزك يامودي","جوني","سينس","طيز","نياشي","جوردي"]
 setInterval(() => {
-a.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
+bb.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
 },59000);
 });
 
-a.on('ready', async () => {
+cc.on('ready', async () => {
 let ReBeL = ["وين طيزك يامودي","جوني","سينس","طيز","نياشي","جوردي"]
 setInterval(() => {
-a.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
+cc.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
 },59000);
 });
 
-a.on('ready', async () => {
+dd.on('ready', async () => {
 let ReBeL = ["وين طيزك يامودي","جوني","سينس","طيز","نياشي","جوردي"]
 setInterval(() => {
-a.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
+dd.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
 },59000);
 });
 
-a.on('ready', async () => {
+ee.on('ready', async () => {
 let ReBeL = ["وين طيزك يامودي","جوني","سينس","طيز","نياشي","جوردي"]
 setInterval(() => {
-a.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
+ee.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
 },59000);
 });
 
-a.on('ready', async () => {
+ff.on('ready', async () => {
 let ReBeL = ["وين طيزك يامودي","جوني","سينس","طيز","نياشي","جوردي"]
 setInterval(() => {
-a.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
+ff.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
 },59000);
 });
 
-a.on('ready', async () => {
+gg.on('ready', async () => {
 let ReBeL = ["وين طيزك يامودي","جوني","سينس","طيز","نياشي","جوردي"]
 setInterval(() => {
-a.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
+gg.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
 },59000);
 });
 
-a.on('ready', async () => {
+hh.on('ready', async () => {
 let ReBeL = ["وين طيزك يامودي","جوني","سينس","طيز","نياشي","جوردي"]
 setInterval(() => {
-a.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
+hh.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
 },59000);
 });
 
-a.on('ready', async () => {
+ii.on('ready', async () => {
 let ReBeL = ["وين طيزك يامودي","جوني","سينس","طيز","نياشي","جوردي"]
 setInterval(() => {
-a.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
+ii.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
 },59000);
 });
 
-a.on('ready', async () => {
+jj.on('ready', async () => {
 let ReBeL = ["وين طيزك يامودي","جوني","سينس","طيز","نياشي","جوردي"]
 setInterval(() => {
-a.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
+jj.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
 },59000);
 });
 
-a.on('ready', async () => {
+kk.on('ready', async () => {
 let ReBeL = ["وين طيزك يامودي","جوني","سينس","طيز","نياشي","جوردي"]
 setInterval(() => {
-a.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
+kk.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
 },59000);
 });
 
-a.on('ready', async () => {
+ll.on('ready', async () => {
 let ReBeL = ["وين طيزك يامودي","جوني","سينس","طيز","نياشي","جوردي"]
 setInterval(() => {
-a.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
+ll.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
 },59000);
 });
 
-a.on('ready', async () => {
+mm.on('ready', async () => {
 let ReBeL = ["وين طيزك يامودي","جوني","سينس","طيز","نياشي","جوردي"]
 setInterval(() => {
-a.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
+mm.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
 },59000);
 });
 
-a.on('ready', async () => {
+nn.on('ready', async () => {
 let ReBeL = ["وين طيزك يامودي","جوني","سينس","طيز","نياشي","جوردي"]
 setInterval(() => {
-a.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
+nn.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
 },59000);
 });
 
-a.on('ready', async () => {
+oo.on('ready', async () => {
 let ReBeL = ["وين طيزك يامودي","جوني","سينس","طيز","نياشي","جوردي"]
 setInterval(() => {
-a.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
+oo.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
 },59000);
 });
 
-a.on('ready', async () => {
+pp.on('ready', async () => {
 let ReBeL = ["وين طيزك يامودي","جوني","سينس","طيز","نياشي","جوردي"]
 setInterval(() => {
-a.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
+pp.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
 },59000);
 });
 
-a.on('ready', async () => {
+qq.on('ready', async () => {
 let ReBeL = ["وين طيزك يامودي","جوني","سينس","طيز","نياشي","جوردي"]
 setInterval(() => {
-a.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
+qq.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
 },59000);
 });
 
-a.on('ready', async () => {
+rr.on('ready', async () => {
 let ReBeL = ["وين طيزك يامودي","جوني","سينس","طيز","نياشي","جوردي"]
 setInterval(() => {
-a.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
+rr.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
 },59000);
 });
 
-a.on('ready', async () => {
+ss.on('ready', async () => {
 let ReBeL = ["وين طيزك يامودي","جوني","سينس","طيز","نياشي","جوردي"]
 setInterval(() => {
-a.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
+ss.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
 },59000);
 });
 
-a.on('ready', async () => {
+tt.on('ready', async () => {
 let ReBeL = ["وين طيزك يامودي","جوني","سينس","طيز","نياشي","جوردي"]
 setInterval(() => {
-a.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
+tt.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
 },59000);
 });
 
-a.on('ready', async () => {
+uu.on('ready', async () => {
 let ReBeL = ["وين طيزك يامودي","جوني","سينس","طيز","نياشي","جوردي"]
 setInterval(() => {
-a.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
+uu.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
 },59000);
 });
 
-a.on('ready', async () => {
+vv.on('ready', async () => {
 let ReBeL = ["وين طيزك يامودي","جوني","سينس","طيز","نياشي","جوردي"]
 setInterval(() => {
-a.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
+vv.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
 },59000);
 });
 
-a.on('ready', async () => {
+ww.on('ready', async () => {
 let ReBeL = ["وين طيزك يامودي","جوني","سينس","طيز","نياشي","جوردي"]
 setInterval(() => {
-a.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
+ww.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
 },59000);
 });
 
-a.on('ready', async () => {
+xx.on('ready', async () => {
 let ReBeL = ["وين طيزك يامودي","جوني","سينس","طيز","نياشي","جوردي"]
 setInterval(() => {
-a.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
+xx.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
 },59000);
 });
 
-a.on('ready', async () => {
+yy.on('ready', async () => {
 let ReBeL = ["وين طيزك يامودي","جوني","سينس","طيز","نياشي","جوردي"]
 setInterval(() => {
-a.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
+yy.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
 },59000);
 });
 
-a.on('ready', async () => {
+zz.on('ready', async () => {
 let ReBeL = ["وين طيزك يامودي","جوني","سينس","طيز","نياشي","جوردي"]
 setInterval(() => {
-a.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
-},59000);
-});
-
-a.on('ready', async () => {
-let ReBeL = ["وين طيزك يامودي","جوني","سينس","طيز","نياشي","جوردي"]
-setInterval(() => {
-a.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
+zz.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
 },59000);
 });
 
 /////////////////////////////////////
+
 a.on('message', message => {
   if (message.author.bot) return;
   let command = message.content.split(" ")[0];
@@ -546,6 +540,578 @@ h.on('message', message => {
   let args = message.content.split(" ").slice(1);
 
   if (command == "s8") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+i.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s9") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+j.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s10") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+k.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s11") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+l.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s12") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+m.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s13") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+n.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s14") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+o.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s15") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+p.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s16") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+q.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s17") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+r.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s18") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+s.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s19") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+t.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s20") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+u.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s21") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+v.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s22") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+w.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s23") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+x.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s24") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+y.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s25") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+z.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s26") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+aa.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s27") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+bb.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s28") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+cc.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s29") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+dd.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s30") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+ee.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s31") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+ff.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s32") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+gg.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s33") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+hh.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s34") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+ii.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s35") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+jj.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s36") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+kk.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s37") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+ll.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s38") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+mm.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "39") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+nn.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s40") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+oo.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s41") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+pp.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s42") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+qq.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s43") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+rr.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s44") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+ss.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s45") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+tt.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s46") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+uu.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s47") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+vv.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s48") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+ww.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s49") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+xx.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s50") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+yy.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s51") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+zz.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s52") {
         		        if (message.author.id != myID) return;
 
    message.channel.sendMessage(args.join("  "))

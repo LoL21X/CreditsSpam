@@ -1,6 +1,6 @@
 const Discord = require('discord.js');
-const 1 = new Discord.Client();
-const 2 = new Discord.Client();
+const a = new Discord.Client();
+const b = new Discord.Client();
 const c = new Discord.Client();
 const d = new Discord.Client();
 const e = new Discord.Client();
@@ -9,10 +9,10 @@ const g = new Discord.Client();
 const h = new Discord.Client();
 
 const myID = '403194852902305805';
-1.on('ready', () => {
+a.on('ready', () => {
   console.log(`Logged in as 1!`);
 });
-2.on('ready', () => {
+b.on('ready', () => {
   console.log(`Logged in as 2!`);
 });
 c.on('ready', () => {
@@ -34,17 +34,17 @@ h.on('ready', () => {
   console.log(`Logged in as 8!`);
 });
 //////////////////////////////////////
-1.on('ready', async () => {
+a.on('ready', async () => {
 let ReBeL = ["وين طيزك يامودي","جوني","سينس","طيز","نياشي","جوردي"]
 setInterval(() => {
-1.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
+a.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
 },59000);
 });
 
-2.on('ready', async () => {
+b.on('ready', async () => {
 let ReBeL = ["يامناويش ","سوف ننكح","سوف ننيش","ياقحبه انت وهو","انيكك نيك","طيزي"]
 setInterval(() => {
-2.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
+b.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
 },60000);
 });
 
@@ -90,7 +90,7 @@ h.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReB
 },66000);
 });
 /////////////////////////////////////
-1.on('message', message => {
+a.on('message', message => {
   if (message.author.bot) return;
   let command = message.content.split(" ")[0];
 
@@ -103,7 +103,7 @@ h.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReB
   }
 });
 
-2.on('message', message => {
+b.on('message', message => {
   if (message.author.bot) return;
   let command = message.content.split(" ")[0];
 
@@ -189,7 +189,7 @@ h.on('message', message => {
   }
 });
 ////////////////
-1.on('message', message => {
+a.on('message', message => {
   if (message.author.bot) return;
   let command = message.content.split(" ")[0];
 
@@ -202,7 +202,7 @@ h.on('message', message => {
   }
 });
 
-2.on('message', message => {
+b.on('message', message => {
   if (message.author.bot) return;
   let command = message.content.split(" ")[0];
 
@@ -289,8 +289,8 @@ h.on('message', message => {
 });
 
 
-1.login(process.env.BOT_TOKEN1);
-2.login(process.env.BOT_TOKEN2);
+a.login(process.env.BOT_TOKEN1);
+b.login(process.env.BOT_TOKEN2);
 c.login(process.env.BOT_TOKEN3);
 d.login(process.env.BOT_TOKEN4);
 e.login(process.env.BOT_TOKEN5);

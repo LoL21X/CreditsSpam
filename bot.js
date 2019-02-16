@@ -51,34 +51,14 @@ const ww = new Discord.Client();
 const xx = new Discord.Client();
 const yy = new Discord.Client();
 const zz = new Discord.Client();
-
-
 const myID = '403194852902305805';
+////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////
 a.on('ready', () => {
-  console.log(`Logged in as 1!`);
-});
-b.on('ready', () => {
-  console.log(`Logged in as 2!`);
-});
-c.on('ready', () => {
-  console.log(`Logged in as 3!`);
-});
-d.on('ready', () => {
-  console.log(`Logged in as 4!`);
-});
-e.on('ready', () => {
-  console.log(`Logged in as 5!`);
-});
-f.on('ready', () => {
-  console.log(`Logged in as 6!`);
-});
-g.on('ready', () => {
-  console.log(`Logged in as 7!`);
-});
-h.on('ready', () => {
-  console.log(`Logged in as 8!`);
+  console.log(`كل حاجه تمام ي باشا`);
 });
 //////////////////////////////////////
+
 a.on('ready', async () => {
 let ReBeL = ["وين طيزك يامودي","جوني","سينس","طيز","نياشي","جوردي"]
 setInterval(() => {
@@ -444,8 +424,8 @@ setInterval(() => {
 zz.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
 },59000);
 });
-
-/////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////
 
 a.on('message', message => {
   if (message.author.bot) return;
@@ -1117,7 +1097,8 @@ zz.on('message', message => {
    message.channel.sendMessage(args.join("  "))
   }
 });
-////////////////
+//////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////
 a.on('message', message => {
   if (message.author.bot) return;
   let command = message.content.split(" ")[0];
@@ -1216,6 +1197,536 @@ h.on('message', message => {
    message.channel.sendMessage(args.join("  "))
   }
 });
+i.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+j.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+k.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+l.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+m.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+n.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+o.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+p.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+q.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+r.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+s.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+t.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+u.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+v.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+w.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+x.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+y.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+z.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+aa.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+bb.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+cc.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+dd.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+ee.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+ff.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+gg.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+hh.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+ii.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+jj.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+kk.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+ll.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+mm.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+nn.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+oo.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+pp.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+qq.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+rr.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+ss.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+tt.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+uu.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+vv.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+ww.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+xx.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+yy.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+zz.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+
 
 
 a.login(process.env.BOT_TOKEN1);

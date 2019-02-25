@@ -51,6 +51,7 @@ const ww = new Discord.Client();
 const xx = new Discord.Client();
 const yy = new Discord.Client();
 const zz = new Discord.Client();
+const aaa = new Discord.Client();
 const myID = '403194852902305805';
 ////////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////////
@@ -419,6 +420,13 @@ yy.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *Re
 });
 
 zz.on('ready', async () => {
+let ReBeL = ["وين طيزك يامودي","جوني","سينس","طيز","نياشي","جوردي"]
+setInterval(() => {
+zz.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
+},59000);
+});
+
+aaa.on('ready', async () => {
 let ReBeL = ["وين طيزك يامودي","جوني","سينس","طيز","نياشي","جوردي"]
 setInterval(() => {
 zz.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
@@ -1097,6 +1105,19 @@ zz.on('message', message => {
    message.channel.sendMessage(args.join("  "))
   }
 });
+
+aaa.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s53") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
 //////////////////////////////////////////////////////////////////
 //////////////////////////////////////////////////////////////////
 a.on('message', message => {
@@ -1726,6 +1747,18 @@ zz.on('message', message => {
   }
 });
 
+aaa.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
 
 
 
@@ -1781,3 +1814,4 @@ ww.login(process.env.BOT_TOKEN49);
 xx.login(process.env.BOT_TOKEN50);
 yy.login(process.env.BOT_TOKEN51);
 zz.login(process.env.BOT_TOKEN52);
+aaa.login(process.env.BOT_TOKEN53);

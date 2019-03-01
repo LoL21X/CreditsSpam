@@ -52,6 +52,33 @@ const xx = new Discord.Client();
 const yy = new Discord.Client();
 const zz = new Discord.Client();
 const aaa = new Discord.Client();
+const bbb = new Discord.Client();
+const ccc = new Discord.Client();
+const ddd = new Discord.Client();
+const eee = new Discord.Client();
+const fff = new Discord.Client();
+const ggg = new Discord.Client();
+const hhh = new Discord.Client();
+const iii = new Discord.Client();
+const jjj = new Discord.Client();
+const kkk = new Discord.Client();
+const lll = new Discord.Client();
+const mmm = new Discord.Client();
+const nnn = new Discord.Client();
+const ooo = new Discord.Client();
+const ppp = new Discord.Client();
+const qqq = new Discord.Client();
+const rrr = new Discord.Client();
+const sss = new Discord.Client();
+const ttt = new Discord.Client();
+const uuu = new Discord.Client();
+const vvv = new Discord.Client();
+const www = new Discord.Client();
+const xxx = new Discord.Client();
+const yyy = new Discord.Client();
+const zzz = new Discord.Client();
+const aaaa = new Discord.Client();
+const bbbb = new Discord.Client();
 const myID = '403194852902305805';
 ////////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////////
@@ -430,6 +457,195 @@ aaa.on('ready', async () => {
 let ReBeL = ["وين طيزك يامودي","جوني","سينس","طيز","نياشي","جوردي"]
 setInterval(() => {
 aaa.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
+},59000);
+});
+
+bbb.on('ready', async () => {
+let ReBeL = ["وين طيزك يامودي","جوني","سينس","طيز","نياشي","جوردي"]
+setInterval(() => {
+bbb.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
+},59000);
+});
+
+ccc.on('ready', async () => {
+let ReBeL = ["وين طيزك يامودي","جوني","سينس","طيز","نياشي","جوردي"]
+setInterval(() => {
+ccc.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
+},59000);
+});
+
+ddd.on('ready', async () => {
+let ReBeL = ["وين طيزك يامودي","جوني","سينس","طيز","نياشي","جوردي"]
+setInterval(() => {
+ddd.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
+},59000);
+});
+
+eee.on('ready', async () => {
+let ReBeL = ["وين طيزك يامودي","جوني","سينس","طيز","نياشي","جوردي"]
+setInterval(() => {
+eee.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
+},59000);
+});
+
+fff.on('ready', async () => {
+let ReBeL = ["وين طيزك يامودي","جوني","سينس","طيز","نياشي","جوردي"]
+setInterval(() => {
+fff.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
+},59000);
+});
+
+ggg.on('ready', async () => {
+let ReBeL = ["وين طيزك يامودي","جوني","سينس","طيز","نياشي","جوردي"]
+setInterval(() => {
+ggg.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
+},59000);
+});
+
+hhh.on('ready', async () => {
+let ReBeL = ["وين طيزك يامودي","جوني","سينس","طيز","نياشي","جوردي"]
+setInterval(() => {
+hhh.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
+},59000);
+});
+
+iii.on('ready', async () => {
+let ReBeL = ["وين طيزك يامودي","جوني","سينس","طيز","نياشي","جوردي"]
+setInterval(() => {
+iii.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
+},59000);
+});
+
+jjj.on('ready', async () => {
+let ReBeL = ["وين طيزك يامودي","جوني","سينس","طيز","نياشي","جوردي"]
+setInterval(() => {
+jjj.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
+},59000);
+});
+
+kkk.on('ready', async () => {
+let ReBeL = ["وين طيزك يامودي","جوني","سينس","طيز","نياشي","جوردي"]
+setInterval(() => {
+kkk.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
+},59000);
+});
+
+lll.on('ready', async () => {
+let ReBeL = ["وين طيزك يامودي","جوني","سينس","طيز","نياشي","جوردي"]
+setInterval(() => {
+lll.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
+},59000);
+});
+
+mmm.on('ready', async () => {
+let ReBeL = ["وين طيزك يامودي","جوني","سينس","طيز","نياشي","جوردي"]
+setInterval(() => {
+mmm.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
+},59000);
+});
+
+nnn.on('ready', async () => {
+let ReBeL = ["وين طيزك يامودي","جوني","سينس","طيز","نياشي","جوردي"]
+setInterval(() => {
+nnn.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
+},59000);
+});
+
+ooo.on('ready', async () => {
+let ReBeL = ["وين طيزك يامودي","جوني","سينس","طيز","نياشي","جوردي"]
+setInterval(() => {
+ooo.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
+},59000);
+});
+
+ppp.on('ready', async () => {
+let ReBeL = ["وين طيزك يامودي","جوني","سينس","طيز","نياشي","جوردي"]
+setInterval(() => {
+ppp.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
+},59000);
+});
+
+qqq.on('ready', async () => {
+let ReBeL = ["وين طيزك يامودي","جوني","سينس","طيز","نياشي","جوردي"]
+setInterval(() => {
+qqq.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
+},59000);
+});
+
+rrr.on('ready', async () => {
+let ReBeL = ["وين طيزك يامودي","جوني","سينس","طيز","نياشي","جوردي"]
+setInterval(() => {
+rrr.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
+},59000);
+});
+
+sss.on('ready', async () => {
+let ReBeL = ["وين طيزك يامودي","جوني","سينس","طيز","نياشي","جوردي"]
+setInterval(() => {
+sss.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
+},59000);
+});
+
+ttt.on('ready', async () => {
+let ReBeL = ["وين طيزك يامودي","جوني","سينس","طيز","نياشي","جوردي"]
+setInterval(() => {
+ttt.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
+},59000);
+});
+
+uuu.on('ready', async () => {
+let ReBeL = ["وين طيزك يامودي","جوني","سينس","طيز","نياشي","جوردي"]
+setInterval(() => {
+uuu.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
+},59000);
+});
+
+vvv.on('ready', async () => {
+let ReBeL = ["وين طيزك يامودي","جوني","سينس","طيز","نياشي","جوردي"]
+setInterval(() => {
+vvv.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
+},59000);
+});
+
+www.on('ready', async () => {
+let ReBeL = ["وين طيزك يامودي","جوني","سينس","طيز","نياشي","جوردي"]
+setInterval(() => {
+www.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
+},59000);
+});
+
+xxx.on('ready', async () => {
+let ReBeL = ["وين طيزك يامودي","جوني","سينس","طيز","نياشي","جوردي"]
+setInterval(() => {
+xxx.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
+},59000);
+});
+
+yyy.on('ready', async () => {
+let ReBeL = ["وين طيزك يامودي","جوني","سينس","طيز","نياشي","جوردي"]
+setInterval(() => {
+yyy.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
+},59000);
+});
+
+zzz.on('ready', async () => {
+let ReBeL = ["وين طيزك يامودي","جوني","سينس","طيز","نياشي","جوردي"]
+setInterval(() => {
+zzz.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
+},59000);
+});
+
+aaaa.on('ready', async () => {
+let ReBeL = ["وين طيزك يامودي","جوني","سينس","طيز","نياشي","جوردي"]
+setInterval(() => {
+aaaa.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
+},59000);
+});
+
+bbbb.on('ready', async () => {
+let ReBeL = ["وين طيزك يامودي","جوني","سينس","طيز","نياشي","جوردي"]
+setInterval(() => {
+bbbb.channels.get("544321243638398980").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
 },59000);
 });
 //////////////////////////////////////////////////////////////////////////
@@ -1118,6 +1334,357 @@ aaa.on('message', message => {
    message.channel.sendMessage(args.join("  "))
   }
 });
+
+bbb.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s54") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+ccc.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s55") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+ddd.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s56") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+eee.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s57") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+fff.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s58") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+ggg.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s59") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+hhh.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s60") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+iii.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s61") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+jjj.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s62") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+kkk.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s63") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+lll.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s64") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+mmm.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s65") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+nnn.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s66") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+ooo.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s67") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+ppp.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s68") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+qqq.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s69") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+rrr.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s70") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+sss.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s71") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+ttt.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s72") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+uuu.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s73") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+vvv.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s74") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+www.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s75") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+xxx.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s76") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+yyy.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s77") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+zzz.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s78") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+aaaa.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s79") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+bbbb.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s80") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
 //////////////////////////////////////////////////////////////////
 //////////////////////////////////////////////////////////////////
 a.on('message', message => {
@@ -1760,8 +2327,377 @@ aaa.on('message', message => {
   }
 });
 
+bbb.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+ccc.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
 
 
+ddd.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+eee.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+fff.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+ggg.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+
+hhh.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+
+iii.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+
+jjj.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+kkk.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+
+lll.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+
+mmm.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+
+nnn.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+
+ooo.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+
+ppp.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+
+qqq.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+
+rrr.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+
+
+sss.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+
+ttt.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+
+uuu.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+
+vvv.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+www.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+xxx.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+
+yyy.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+
+zzz.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+aaaa.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+bbbb.on('message', message => {
+  if (message.author.bot) return;
+  let command = message.content.split(" ")[0];
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == "s") {
+        		        if (message.author.id != myID) return;
+
+   message.channel.sendMessage(args.join("  "))
+  }
+});
+
+//////////////////////////////////////
+//////////////////////////////////////
 a.login(process.env.BOT_TOKEN1);
 b.login(process.env.BOT_TOKEN2);
 c.login(process.env.BOT_TOKEN3);
@@ -1815,3 +2751,30 @@ xx.login(process.env.BOT_TOKEN50);
 yy.login(process.env.BOT_TOKEN51);
 zz.login(process.env.BOT_TOKEN52);
 aaa.login(process.env.BOT_TOKEN53);
+bbb.login(process.env.BOT_TOKEN54);
+ccc.login(process.env.BOT_TOKEN55);
+ddd.login(process.env.BOT_TOKEN56);
+eee.login(process.env.BOT_TOKEN57);
+fff.login(process.env.BOT_TOKEN58);
+ggg.login(process.env.BOT_TOKEN559);
+hhh.login(process.env.BOT_TOKEN560);
+iii.login(process.env.BOT_TOKEN61);
+jjj.login(process.env.BOT_TOKEN62);
+kkk.login(process.env.BOT_TOKEN63);
+lll.login(process.env.BOT_TOKEN64);
+mmm.login(process.env.BOT_TOKEN65);
+nnn.login(process.env.BOT_TOKEN66);
+ooo.login(process.env.BOT_TOKEN67);
+ppp.login(process.env.BOT_TOKEN68);
+qqq.login(process.env.BOT_TOKEN69);
+rrr.login(process.env.BOT_TOKEN70);
+sss.login(process.env.BOT_TOKEN71);
+ttt.login(process.env.BOT_TOKEN72);
+uuu.login(process.env.BOT_TOKEN73);
+vvv.login(process.env.BOT_TOKEN74);
+www.login(process.env.BOT_TOKEN75);
+xxx.login(process.env.BOT_TOKEN76);
+yyy.login(process.env.BOT_TOKEN77);
+zzz.login(process.env.BOT_TOKEN78);
+aaaa.login(process.env.BOT_TOKEN79);
+bbbb.login(process.env.BOT_TOKEN780);
